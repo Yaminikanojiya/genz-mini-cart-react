@@ -1,3 +1,13 @@
+🛒 GenZ Mini Cart App
+
+A simple ecommerce cart built using React JS.
+Features:
+- Add to cart
+- Delete using filter()
+- Render list using map()
+- Search functionality
+- Total items badge counter
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
